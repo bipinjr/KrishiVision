@@ -1,2 +1,0 @@
-# KrishiVision
-Intelligent Agricultural Platform
